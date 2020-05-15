@@ -2,9 +2,9 @@
 * text=auto
 
 # Files with Unix line endings
-*.c   text eol=lf
-*.cpp text eol=lf
-*.h   text eol=lf
+*.c   text eol=lf filter=indent
+*.cpp text eol=lf filter=indent
+*.h   text eol=lf filter=indent
 *.ino text eol=lf
 *.py  text eol=lf
 *.sh  text eol=lf
